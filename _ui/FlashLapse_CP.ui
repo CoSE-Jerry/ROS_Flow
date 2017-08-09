@@ -180,54 +180,6 @@
          </item>
         </layout>
        </widget>
-       <widget class="QComboBox" name="Frame">
-        <property name="geometry">
-         <rect>
-          <x>270</x>
-          <y>300</y>
-          <width>91</width>
-          <height>22</height>
-         </rect>
-        </property>
-        <item>
-         <property name="text">
-          <string>OFF</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Full</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Logo</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>White</string>
-         </property>
-        </item>
-        <item>
-         <property name="text">
-          <string>Blue</string>
-         </property>
-        </item>
-       </widget>
-       <widget class="QLabel" name="Frame_label">
-        <property name="geometry">
-         <rect>
-          <x>270</x>
-          <y>265</y>
-          <width>101</width>
-          <height>31</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>Frame Lighting:</string>
-        </property>
-       </widget>
       </widget>
       <widget class="QWidget" name="Presets">
        <attribute name="title">
