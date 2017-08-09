@@ -183,9 +183,9 @@
        <widget class="QComboBox" name="Frame">
         <property name="geometry">
          <rect>
-          <x>280</x>
+          <x>270</x>
           <y>300</y>
-          <width>81</width>
+          <width>91</width>
           <height>22</height>
          </rect>
         </property>
@@ -218,10 +218,10 @@
        <widget class="QLabel" name="Frame_label">
         <property name="geometry">
          <rect>
-          <x>280</x>
-          <y>280</y>
-          <width>91</width>
-          <height>16</height>
+          <x>270</x>
+          <y>275</y>
+          <width>101</width>
+          <height>21</height>
          </rect>
         </property>
         <property name="text">
@@ -274,9 +274,9 @@ p, li { white-space: pre-wrap; }
           </property>
           <property name="geometry">
            <rect>
-            <x>70</x>
+            <x>50</x>
             <y>180</y>
-            <width>171</width>
+            <width>211</width>
             <height>61</height>
            </rect>
           </property>
